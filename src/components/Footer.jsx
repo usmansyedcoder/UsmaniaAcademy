@@ -45,16 +45,16 @@ const Footer = () => {
               <a href="https://youtube.com/@UsmaniaAcademy" target="_blank" className="text-gray-400 hover:text-red-500 transition text-2xl">
                 <FaYoutube />
               </a>
-              <a href="#" className="text-gray-400 hover:text-red-500 transition text-2xl">
+              <a href="https://github.com/usmansyedcoder" target="_blank" className="text-gray-400 hover:text-red-500 transition text-2xl">
                 <FaGithub />
               </a>
-              <a href="#" className="text-gray-400 hover:text-red-500 transition text-2xl">
+              <a href="https://twitter.com/usmansyedcoder" target="_blank" className="text-gray-400 hover:text-red-500 transition text-2xl">
                 <FaTwitter />
               </a>
-              <a href="#" className="text-gray-400 hover:text-red-500 transition text-2xl">
+              <a href="https://linkedin.com/in/muhammad-usman-islamian" target="_blank" className="text-gray-400 hover:text-red-500 transition text-2xl">
                 <FaLinkedin />
               </a>
-              <a href="#" className="text-gray-400 hover:text-red-500 transition text-2xl">
+              <a href="mailto:usmansyed.peshawar@gmail.com" target="_blank" className="text-gray-400 hover:text-red-500 transition text-2xl">
                 <FaEnvelope />
               </a>
             </div>
